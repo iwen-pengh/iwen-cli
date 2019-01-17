@@ -1,0 +1,22 @@
+{
+  "name": "iwen-cli-temp",
+  "version": "1.0.0",
+  "description": "a iwen-cli project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwen-pengh/iwen-cli.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "penghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwen-pengh/iwen-cli/issues"
+  },
+  "homepage": "https://github.com/iwen-pengh/iwen-cli#readme"
+}
