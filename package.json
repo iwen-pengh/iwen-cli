@@ -1,7 +1,7 @@
 {
-  "name": "iwen-cli-temp",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "a iwen-cli project",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "test"
